@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://www.morgancreek.co.za/</loc>
+		<lastmod>2016-05-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://www.morgancreek.co.za/index.php</loc>
+		<lastmod>2016-05-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc>http://www.morgancreek.co.za/terms/index.php</loc>
+		<lastmod>2016-05-12</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://www.morgancreek.co.za/privacy/index.php</loc>
+		<lastmod>2016-05-12</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.8</priority>
+	</url>
+</urlset>
